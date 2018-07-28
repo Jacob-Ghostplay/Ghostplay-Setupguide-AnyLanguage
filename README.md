@@ -27,8 +27,8 @@ In this project we thank:
 **Table:** 
 - *Parts:* 
 	- [Information](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/README.md) 
-	- [Update Log](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Credit%20List)
-	- [Credit List](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Credit%20List) 
+	- [Update Log](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Update%20Log.md)
+	- [Credit List](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Credits.md) 
 - *Language list:* 
 	- [English](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/English) 
 	- [French](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/French) 

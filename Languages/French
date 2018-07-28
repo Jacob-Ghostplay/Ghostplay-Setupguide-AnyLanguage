@@ -1,0 +1,28 @@
+Suivez toutes les étapes *soigneusement*!
+
+1. Invitez le robot sur votre serveur.
+
+2. Créez un nouveau rôle appelé: `Ghosty`
+
+3. Attribuez au rôle les autorisations `Administrateur`.
+
+4. Attribuez au rôle les autorisations `Gérer les rôles`.
+
+5. Mettez le rôle au-dessus de tous les rôles.
+
+6. Donnez le rôle au bot.
+
+7. Exécutez la commande: {prefix}multicolor 10 {rolename}
+Exemple pour R2: *multicolor 10 Propriétaire
+
+---------------------------------------------------------
+Conseils:
+
+Astuce 1: facile de mentionner les rôles.
+Tapez le rôle comme vous voulez le mentionner mais supprimez le @ avant d'envoyer le message.
+
+Astuce 2: Mentionner le rôle de bot.
+Vous ne pouvez pas mentionner le rôle le plus élevé du bot.
+
+Astuce 3: Façon de lire ce message:
+Suivez chaque étape depuis le début. (Ou l'étape 2 puisque vous avez probablement déjà invité le bot.)

@@ -1,4 +1,6 @@
-Follow all steps *carefully*!
+# English Setup Guide.
+
+**Follow all steps ***carefully***!
 
 1. Invite the bot to your server.
 

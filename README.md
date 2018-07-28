@@ -24,8 +24,15 @@ Welsh:
 	Without him I wouldn't have made this anyway, thank you for the amazing Ghostplay bots.
 
 
-Language list:
-- [English](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/English)
-- French
-- Hindi
-- Polish
+**Table:**
+	
+	*Parts:*
+	[Information](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/README.md)
+	[Update Log](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Credit%20List)
+	[Credit List](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/README.md)
+	
+	*Language list:*
+	- [English](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/English)
+	- [French](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/French)
+	- [Hindi](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/Hindi)
+	- [Polish](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/Polish)

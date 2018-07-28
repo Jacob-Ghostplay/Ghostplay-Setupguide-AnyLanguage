@@ -1,6 +1,6 @@
-# H1 Update Log:
+# Update Log:
 
-## H2 28/07/2018
+#### 28/07/2018
 	-Updated Language:
 		- Name: English
 		- Details: Made it look more smooth.

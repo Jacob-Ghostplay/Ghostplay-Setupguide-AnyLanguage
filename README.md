@@ -25,7 +25,7 @@ Welsh:
 
 
 Language list:
-- English
+- [English](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/English)
 - French
 - Hindi
 - Polish

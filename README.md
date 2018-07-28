@@ -25,7 +25,6 @@ Welsh:
 
 
 **Table:** 
-
 	*Parts:* \
 	- [Information](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/README.md) \
 	- [Update Log](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Credit%20List)\

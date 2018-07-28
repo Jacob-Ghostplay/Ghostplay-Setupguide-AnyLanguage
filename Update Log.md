@@ -3,6 +3,7 @@ __**Update Log:**__
 - 28/07/2018
 	- New language:
 		- Name: Swedish
+		- Added ParsaHp#2383 to Credits.
 		
 		
 		

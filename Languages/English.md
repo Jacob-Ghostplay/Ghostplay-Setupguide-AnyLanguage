@@ -2,7 +2,7 @@
 
 #### Follow all steps ***carefully***!
 
-1. Invite the bot to your server.
+1. Invite the bot to your [server](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Update%20Log.md).
 
 2. Create a new role called: `Ghosty`
 
@@ -15,7 +15,7 @@
 6. Give the role to the bot.
 
 7. Execute the command: {prefix}multicolor 10 {rolename} \
-    Example for R2: *multicolor 10 Owner
+`Example for R2: *multicolor 10 Owner`
 
 --------------------------------------------------------
 #### Tips:

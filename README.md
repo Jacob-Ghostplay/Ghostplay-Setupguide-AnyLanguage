@@ -15,7 +15,7 @@ Straightforward, \
 This chat is meant as little guideline in other languages so it is easy for you to work with our bots.
 
 
-In this project we thank: \
+In this project we thank: 
 - Members who have these language as their home language: \
 	If you speak another language, please direct message Jacob. Credits will be given if you help out. \
 - Shapax: \
@@ -25,12 +25,12 @@ In this project we thank: \
 
 
 **Table:** \
-	# *Parts:* \
+- *Parts:* \
 	- [Information](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/README.md) \
 	- [Update Log](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Credit%20List)\
 	- [Credit List](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/README.md) \
-	# *Language list:*
-	- [English](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/English) \
+	- *Language list:*
+- [English](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/English) \
 	- [French](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/French) \
 	- [Hindi](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/Hindi) \
 	- [Polish](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/Polish) 

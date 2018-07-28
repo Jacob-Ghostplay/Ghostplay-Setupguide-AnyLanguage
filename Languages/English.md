@@ -15,7 +15,7 @@
 6. Give the role to the bot.
 
 7. Execute the command: {prefix}multicolor 10 {rolename} \
-`Example for R2: *multicolor 10 Owner`
+Example for R2: `*multicolor 10 Owner`
 
 --------------------------------------------------------
 #### Tips:

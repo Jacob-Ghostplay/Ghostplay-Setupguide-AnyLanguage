@@ -16,21 +16,21 @@ This chat is meant as little guideline in other languages so it is easy for you 
 
 
 In this project we thank: 
-- Members who have these language as their home language: \
-	If you speak another language, please direct message Jacob. Credits will be given if you help out. \
+- Members who have these language as their home language: 
+	If you speak another language, please direct message Jacob. Credits will be given if you help out. 
 - Shapax: \
-	For giving the idea of helping via a chat and supporting this idea in the first place. (had some slack before release) \
+	For giving the idea of helping via a chat and supporting this idea in the first place. (had some slack before release) 
 - Welsh: \
 	Without him I wouldn't have made this anyway, thank you for the amazing Ghostplay bots. 
 
 
 **Table:** \
 - *Parts:* \
-	- [Information](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/README.md) \
-	- [Update Log](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Credit%20List)\
-	- [Credit List](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/README.md) \
+	- [Information](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/README.md) 
+	- [Update Log](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Credit%20List)
+	- [Credit List](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/README.md) 
 - *Language list:* \
-	- [English](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/English) \
-	- [French](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/French) \
-	- [Hindi](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/Hindi) \
+	- [English](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/English) 
+	- [French](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/French) 
+	- [Hindi](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/Hindi) 
 	- [Polish](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/Polish) 

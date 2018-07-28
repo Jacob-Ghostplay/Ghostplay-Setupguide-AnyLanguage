@@ -4,7 +4,7 @@ __**Update Log:**__
 	- New language:
 		- Name: Swedish
 		- Added ParsaHp#2383 to Credits.
-		
+		- Added Swedish to the Language lists.
 		
 		
 		

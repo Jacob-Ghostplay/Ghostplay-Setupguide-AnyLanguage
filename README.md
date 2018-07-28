@@ -33,4 +33,5 @@ In this project we thank:
 	- [English](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/English) 
 	- [French](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/French) 
 	- [Hindi](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/Hindi) 
-	- [Polish](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/Polish) 
+	- [Polish](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Languages/Polish)
+	- [Swedish](https://raw.githubusercontent.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/master/Languages/Swedish.md)

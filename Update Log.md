@@ -3,7 +3,7 @@ __**Update log:**__
 - 28/07/2018
     - Changed Update Log
         - Details: 
-            - You can now see details.
+            -> You can now see details.
 
 - 28/07/2018 
     - Added Update Log

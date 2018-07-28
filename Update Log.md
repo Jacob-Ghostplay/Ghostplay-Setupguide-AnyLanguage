@@ -1,42 +1,26 @@
-__**Update log:**__
+__**Update Log:**__
 
 - 28/07/2018
-    - Changed Update Log
-        - Details: 
-            - You can now see details.
+	- New language:
+		- Name: Swedish
 
-- 28/07/2018 
-    - Added Update Log
-        - Details: 
-            - New.
-  
- - 28/07/2018 
-    - Added Credit List
-        - Details: 
-            - New.
+- 28/07/2018 (First part.)
+	- New Language:
+		- Name: French
 
-- 28/07/2018 
-    - Revamped Info (Readme.md)
-        - Details:
-            - Added redirections.
-            - Made text look cleaner.
+	- New Language:
+		- Name: English
 
-- 28/07/2018 
-    - Added Hindi
-        - Details:
-            - New.
+	- New Language:
+		- Name: Polish
 
-- 28/07/2018 
-    - Added Polish
-        - Details:
-            - New.
+	- New language:
+		- Name: Hindi
 
-- 28/07/2018 
-    - Added English
-        - Details:
-            - New.
+	- Revamped readme.md
+		- Made redirects.
+		- Changed reading layout.
 
-- 28/07/2018
-    - Added French
-        - Details:
-            - New.
+	- Created Credits
+		- Created.
+		- Added all helpers to the Credits page.

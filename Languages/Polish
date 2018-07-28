@@ -1,0 +1,33 @@
+Wykonaj wszystkie kroki *ostrożnie*!
+
+1. Zaproś bota na swój serwer.
+
+2. Utwórz nową rolę o nazwie: `Ghosty`
+
+3. Nadaj rolę uprawnienia `Administrator`.
+
+4. Nadaj roli uprawnienia `Zarządzaj rolami`.
+
+5. Umieść rolę na szczycie wszystkich ról.
+
+6. Podaj rolę bota.
+
+7. Wykonaj polecenie: {prefix}multicolor 10 {rolename}
+Przykład dla R2: *multicolor 10 Właściciel
+
+---------------------------------------------------------
+Wskazówki:
+
+Wskazówka 1: Łatwe wymienianie ról.
+Wpisz rolę, jak chcesz o tym wspomnieć, ale usuń @ przed wysłaniem wiadomości.
+
+Wskazówka 2: Wspomnienie roli bota.
+NIE możesz wymienić najwyższej roli, jaką ma bot.
+
+Wskazówka 3: Sposób na przeczytanie tej wiadomości:
+Śledź każdy krok od samego początku. (Lub krok 2, ponieważ prawdopodobnie już zaprosiłeś bota.)
+
+
+Credits:
+the piguła#6880
+	For correcting grammatical mistakes.

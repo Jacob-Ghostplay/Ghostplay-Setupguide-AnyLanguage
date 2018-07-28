@@ -8,18 +8,6 @@
 		- Name: Swedish
 		- Added ParsaHp#2383 to Credits.
 		- Added Swedish to the Language lists.
-		
-		
-		
-		
-		
-		
-		
-	
-	
-	
-
-- 28/07/2018 (First part.)
 	- New Language:
 		- Name: French
 

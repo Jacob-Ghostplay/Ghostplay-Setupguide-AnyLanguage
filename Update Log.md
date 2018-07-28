@@ -3,6 +3,17 @@ __**Update Log:**__
 - 28/07/2018
 	- New language:
 		- Name: Swedish
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
 
 - 28/07/2018 (First part.)
 	- New Language:

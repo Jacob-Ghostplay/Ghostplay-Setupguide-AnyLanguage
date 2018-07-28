@@ -1,6 +1,6 @@
 # English Setup Guide.
 
-#### *Follow all steps ***carefully***!
+#### Follow all steps ***carefully***!
 
 1. Invite the bot to your server.
 
@@ -18,7 +18,7 @@
     Example for R2: *multicolor 10 Owner
 
 --------------------------------------------------------
-Tips:
+#### Tips:
 
 Tip 1: Easy mentioning roles.
 	Type the role like you want to mention it but remove the @ before you send the message.

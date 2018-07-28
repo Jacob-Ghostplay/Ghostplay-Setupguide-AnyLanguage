@@ -9,3 +9,4 @@
 
 - Editors:
   - the piguła#6880 (Polish)
+  - ParsaHp#2383 (Swedish)

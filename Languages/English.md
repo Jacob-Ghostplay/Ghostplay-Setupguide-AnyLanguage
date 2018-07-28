@@ -2,7 +2,7 @@
 
 #### Follow all steps ***carefully***!
 
-1. Invite the bot to your [server](https://github.com/Jacob-Ghostplay/Ghostplay-Setupguide-AnyLanguage/blob/master/Update%20Log.md).
+1. Invite the bot to your server.
 
 2. Create a new role called: `Ghosty`
 
